@@ -7,3 +7,6 @@ New Moon Theme for iterm2, base on https://github.com/taniarascia/new-moon-vscod
 
 ## Htop command
 ![Htop](https://github.com/WindSoilder/NewMoon-iterm2/blob/master/imgs/screenshot.png)
+
+# Special thanks
+Very thanks [Tania Rascia](https://github.com/taniarascia) for creating awesome [NewMoon VsCode](https://github.com/taniarascia/new-moon-vscode).
